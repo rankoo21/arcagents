@@ -127,6 +127,5 @@ script/
 - [Arc documentation](https://docs.arc.network)
 - [Arc Testnet explorer](https://testnet.arcscan.app)
 
-## License
 
-MIT
+
